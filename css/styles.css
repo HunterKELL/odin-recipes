@@ -17,6 +17,37 @@ a {
     text-decoration: none;
     color: black;
 }
+/* Main Page */
+.recipes {
+    padding: 32px 0;
+    margin-top: 2rem;
+}
+  
+.recipe-pic {
+    width: 65%;
+    height: 60%;
+} 
+.recipes-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+.recipe-container {
+    text-align: center;
+    width: 21.875rem;
+    padding: 1rem;
+}
+.recipe-container p {
+    padding: 0.4rem;
+    font-weight: bold;
+} 
+.recipe-card {
+    background-color: #A4CDBD;
+    border-radius: 11px;
+    box-shadow: 0 3px 10px grey;
+    padding: 20px;
+    margin: 20px;
+}
 /* Headings */
 h1 {
     margin-bottom: 1.5rem;

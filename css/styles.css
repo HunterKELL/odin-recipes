@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Raleway', 'Courier', sans-serif;
+    font-size: 27px;
+    text-align: center;
+    background-color: grey;
+}
+.wrapper {
+    text-align: center;
+}
+/* Headings */
